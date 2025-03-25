@@ -1,8 +1,5 @@
 # Welcome to TripTune
 
-## Project info
-
-**URL**: https://lovable.dev/projects/3ac179b2-a073-49dc-a2f0-058c064d571c
 
 ## How can I edit this code?
 
